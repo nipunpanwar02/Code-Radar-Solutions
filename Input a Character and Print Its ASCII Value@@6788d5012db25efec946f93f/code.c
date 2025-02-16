@@ -3,8 +3,8 @@ int main(){
     char A=65;
     char z=122;
 
-    scanf("%c",&);
-    printf("ASCII Value: %c",);
+    scanf("%c",&A);
+    printf("ASCII Value: %c",A);
 
     return 0;
 }
