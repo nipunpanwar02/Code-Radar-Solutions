@@ -4,7 +4,7 @@ int main(){
     char word[100];
     printf("Enter a word: ");
 
-    scanf("%c", word);
+    scanf("%s", word);
 
     printf("You entered: %s\n",word);
 
