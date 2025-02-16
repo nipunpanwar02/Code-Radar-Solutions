@@ -3,9 +3,9 @@
 int main(){
     char word;
 
-    scanf("%c", &word);
+    scanf("%s", &word);
 
-    printf("You entered: %c",word);
+    printf("You entered: %s",word);
 
     return 0;
 }
